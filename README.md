@@ -23,6 +23,11 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
+[Soal (BE) TECHNICAL TEST PT. EIGEN TRI MATHEMA](https://docs.google.com/document/d/13FAlg2dN6fbPHd6gcU4uO-DITujTG49Wpo2B_Jmj0-Y/edit?usp=sharing).
+
+Soal 1) Tentang Sistem Backend Perpustakaan/library.
+
+[Soal 2) Tentang Algoritma sudah dicompile](https://codepen.io/indo-aghny/pen/qBGrPwK?editors=1111).
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
@@ -71,3 +76,5 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+
